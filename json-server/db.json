@@ -1,0 +1,97 @@
+{
+  "orders": [
+    {
+      "id": 0,
+      "sandwichId": 0,
+      "status": "ready"
+    },
+    {
+      "id": 1,
+      "sandwichId": 0,
+      "status": "inQueue"
+    },
+    {
+      "id": 2,
+      "sandwichId": 0,
+      "status": "ready"
+    },
+    {
+      "id": 3,
+      "sandwichId": 1,
+      "status": "ready"
+    },
+    {
+      "id": 4,
+      "sandwichId": 2,
+      "status": "failed"
+    },
+    {
+      "id": 5,
+      "sandwichId": 6,
+      "status": "failed"
+    },
+    {
+      "id": 6,
+      "sandwichId": 6,
+      "status": "failed"
+    },
+    {
+      "id": 7,
+      "sandwichId": 6,
+      "status": "failed"
+    },
+    {
+      "id": 8,
+      "sandwichId": "12",
+      "status": "sent"
+    },
+    {
+      "id": 9,
+      "sandwichId": "25",
+      "status": "sent"
+    }
+  ],
+  "sandwiches": [
+    {
+      "id": 0,
+      "name": "my-super-sandwich",
+      "toppings": [
+        {
+          "id": 1,
+          "name": "cheese"
+        }
+      ],
+      "breadType": "oat"
+    },
+    {
+      "id": 1,
+      "name": "my-super-sandwich-1",
+      "toppings": [
+        {
+          "id": 1,
+          "name": "cheese"
+        },
+        {
+          "id": 2,
+          "name": "salami"
+        }
+      ],
+      "breadType": "rye"
+    },
+    {
+      "id": 3,
+      "name": "my-super-sandwich-3",
+      "toppings": [
+        {
+          "id": 1,
+          "name": "cheese"
+        },
+        {
+          "id": 3,
+          "name": "ham"
+        }
+      ],
+      "breadType": "wheat"
+    }
+  ]
+}
