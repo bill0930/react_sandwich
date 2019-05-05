@@ -34,7 +34,7 @@ The front-end users make requests to Server A,  then the front-end webpage displ
 1. open Terminal and cd to /Document (example)and clone this project<br>
   `git clone https://github.com/bill0930/react_sandwich.git`
 
-2. `cd  make-me-a-sandwich/` 
+2. `cd  make-me-a-sandwich` 
 
 3. run `npm install` to install all the required dependencies packages
 
