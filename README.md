@@ -1,3 +1,12 @@
+# README.MD
+
+
+### [Video Demo](https://www.youtube.com/watch?v=AH4ykFYAQuk) of the front-end part
+
+The system is able to 
+- check order status from backend (Sent, Received, Succeed ,Failed)
+- make order to backend
+
 ![System_architeture](https://i.imgur.com/e5orHC7.png)
 
 The front-end users make requests to Server A,  then the front-end webpage display the corresponding content to ServerA response.
@@ -23,9 +32,9 @@ The front-end users make requests to Server A,  then the front-end webpage displ
 ##### Front-End
 
 1. open Terminal and cd to /Document (example)and clone this project<br>
-  `git clone https://course-gitlab.tut.fi/webarch-2018/webarch-group-019.git`
+  `git clone https://github.com/bill0930/react_sandwich.git`
 
-2. `cd  /webarch-group-019/frontend/make-me-a-sandwich/` 
+2. `cd  make-me-a-sandwich/` 
 
 3. run `npm install` to install all the required dependencies packages
 
@@ -41,4 +50,3 @@ The front-end users make requests to Server A,  then the front-end webpage displ
 
 6. After the installation and start up the json-server, run `npm start` to start up the webpage.
 
-[Video Demo](https://www.youtube.com/watch?v=AH4ykFYAQuk) of the front-end part
