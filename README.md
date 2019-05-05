@@ -4,7 +4,7 @@
 ### [Video Demo](https://www.youtube.com/watch?v=AH4ykFYAQuk) of the front-end part
 
 The system is able to 
-- check order status from backend (Sent, Received, Succeed ,Failed)
+- check order status from backend (Sent, in-Queue, Ready ,Failed)
 - make order to backend
 
 ![System_architeture](https://i.imgur.com/e5orHC7.png)
